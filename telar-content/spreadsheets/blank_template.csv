@@ -1,7 +1,9 @@
 step,object,x,y,zoom,page,question,answer,alt_text,layer1_button,layer1_content,layer2_button,layer2_content,clip_start,clip_end,loop
 paso,objeto,x,y,zoom,pagina,pregunta,respuesta,texto_alt,boton1,contenido1,boton2,contenido2,inicio_clip,fin_clip,bucle
-1,telar-placeholder,0.5,0.5,1,,question,answer,,,,,,,,
-2,telar-placeholder,0.5,0.5,1,,question,answer,,,,,,,,
-3,telar-placeholder,0.5,0.5,1,,question,answer,,,,,,,,
+1,telar-placeholder,0.16971047790732763,0.39622910720803717,6.631842105263159,,question,pink,,,,,,,,
+2,telar-placeholder,0.5,0.5,1,,question,green,,,,,,,,
+3,telar-placeholder,0.7895815800911331,0.6155048070715747,6.631842105263159,,yellow,answer,,,,,,,,
 4,view-recent-photos,0.4721682504435206,0.4815979800684091,3.632252559726962,,yummy,yummu,,,,,,,,
 6,view-recent-photos,0.3577176956986202,0.16461817681947272,5.4483788395904424,,yearrrrr,guat,,,,,,,,
+8,view-recent-photos,0.5127181560672516,0.4721274175199087,0.9,,,,,,,,,,,
+9,,0.5,0.5,1,,,,,Learn more,blank_template-sushi.md,,,,,
