@@ -1,2 +1,4 @@
 step,object,x,y,zoom,page,question,answer,alt_text,layer1_button,layer1_content,layer2_button,layer2_content,clip_start,clip_end,loop
 paso,objeto,x,y,zoom,pagina,pregunta,respuesta,texto_alt,boton1,contenido1,boton2,contenido2,inicio_clip,fin_clip,bucle
+1,screenshot-20260520-at-114438-pm,0.5,0.5000000000000016,1,,WHEN WAS THIS?,"April 30, 1994 ",,,,,,,,
+2,screenshot-20260520-at-114438-pm,0.4804886127688978,0.6636783761352226,1.7761764705882355,,say,gex,,,,,,,,
